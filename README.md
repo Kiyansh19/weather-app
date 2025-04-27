@@ -1,28 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Weather App README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f6f8;
-      padding: 20px;
-      color: #333;
-    }
-    h1 {
-      color: #4a90e2;
-    }
-    code {
-      background: #eee;
-      padding: 2px 5px;
-      border-radius: 4px;
-    }
-    .section {
-      margin-bottom: 20px;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>🌦️ Weather App</h1>
